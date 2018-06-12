@@ -1,5 +1,6 @@
 Autossh for OpenWrt
 ===
+depend:passh
 
 Install
 ---
